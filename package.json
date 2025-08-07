@@ -15,6 +15,7 @@
     "loader-utils": "3.2.1",
     "typescript": "5.7.2"
   },
+  "homepage": "https://lazydaoist14.github.io/recursing-mcclintock-g2pxmz",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
